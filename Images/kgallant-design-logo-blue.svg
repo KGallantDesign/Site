@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 207 272" style="enable-background:new 0 0 207 272;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#014588;stroke:#014588;stroke-miterlimit:10;}
+	.st2{display:inline;fill:#020202;stroke:#000000;stroke-miterlimit:10;}
+	.st3{display:inline;fill:none;}
+	.st4{display:inline;}
+	.st5{enable-background:new    ;}
+	.st6{fill:#014588;}
+</style>
+<g id="Layer_1" class="st0">
+	<polygon class="st1" points="282.3,20.4 279.5,249.6 299.3,234 302.6,20.4 	"/>
+	<polygon class="st1" points="279.5,249.6 455.4,106.7 427.6,106.7 279.5,227 	"/>
+	<polygon class="st1" points="301.1,119.5 342,176.2 359.5,162 314.4,101.3 	"/>
+	<path class="st1" d="M427.6,106.7c0,0-64.1-0.9-63.7,0c0.5,0.9,0,20.7,0,20.7H402L427.6,106.7z"/>
+	<polygon class="st1" points="301.1,119.5 393,38 377.1,20.4 291,99.6 	"/>
+	<polygon class="st1" points="377.1,20.4 427.6,76.1 398.3,76.1 359.5,36.7 	"/>
+	<polygon class="st2" points="279.5,249.6 271,264.7 271,39.8 282.3,20.4 	"/>
+	<polygon class="st2" points="455.4,106.7 448.8,123.7 271,264.7 279.5,249.6 	"/>
+	<polygon class="st2" points="301.1,135 335.3,181.6 342,176.2 301.1,119.5 	"/>
+	<polygon class="st2" points="363.9,127.5 359.5,135 392.7,135 402,127.5 	"/>
+	<polygon class="st2" points="363.9,106.7 363.9,127.5 359.5,135 359.5,115 	"/>
+	<polygon class="st2" points="375.8,53.2 370.5,67.1 393,89.7 398.3,76.1 	"/>
+	<polygon class="st2" points="427.6,76.1 422.8,89.7 393,89.7 398.3,76.1 	"/>
+	<polygon class="st2" points="373.3,69.9 323,113 317.2,105.1 375.8,53.2 	"/>
+	<polygon class="st2" points="363.9,106.7 356.3,119.5 356.3,138.8 388.1,138.8 402,127.5 363.9,127.5 	"/>
+	<polygon class="st2" points="448.8,123.7 271,269.4 271,253.9 279.5,249.6 455.4,106.7 	"/>
+	<polygon class="st2" points="271,39.8 268.2,272.2 276.7,264.7 279.5,249.6 282.3,20.4 	"/>
+	<rect x="-2" y="-116" class="st3" width="237" height="62"/>
+	<text transform="matrix(1 0 0 1 -2 -96.8301)" class="st4" style="font-family:'MyriadPro-Bold'; font-size:27px;">rgb(1, 69, 136)</text>
+</g>
+<g id="Layer_4">
+	<g>
+		<polygon class="st6" points="19.5,48.8 36.4,48.8 36.4,119 101.4,48.8 121.8,48.8 48.6,127.6 121,209.1 101.1,209.1 36.9,137.6 
+			36.9,209.1 19.5,209.1 		"/>
+		<polygon class="st6" points="101.4,48.8 145.2,93.6 165,93.6 121.8,48.8 		"/>
+		<polygon class="st6" points="121,209.1 194.8,127.5 174.5,127.5 98.7,206.4 101.1,209.1 		"/>
+		<polygon class="st6" points="194.8,127.7 174.5,127.6 113.1,127.5 113.1,143.2 154.8,143.3 176.3,143.3 		"/>
+		<polygon points="19.5,48.8 13.7,61 13.7,221.3 31.1,221.3 36.9,209.1 19.5,209.1 		"/>
+		<polygon points="194.8,127.7 189.1,139.9 115.3,221.3 95.4,221.3 36.9,156.3 36.9,137.6 101.1,209.1 121,209.1 		"/>
+		<polygon points="113.1,127.5 107.4,139.8 107.4,155.5 147.6,155.5 159.3,143.3 113.1,143.2 		"/>
+		<polygon points="165,93.6 159.3,105.9 139.5,105.9 106.1,71.7 51.4,130.7 48.6,127.6 111.9,59.5 145.2,93.6 		"/>
+	</g>
+</g>
+</svg>
